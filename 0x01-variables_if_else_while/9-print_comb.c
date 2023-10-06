@@ -11,6 +11,7 @@ int main(void)
 	while (digit <= 9)
 	{
 		putchar(digit + 48);
+
 		if (digit != 9)
 		{
 			putchar('.');
