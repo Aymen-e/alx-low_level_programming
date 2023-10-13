@@ -8,7 +8,7 @@
 */
 void print_line(int n)
 {
-	int lnchr:
+	int lnchr;
 
 	if (n <= 0)
 		_putchar('\n');
