@@ -28,7 +28,7 @@ int main(int argc, char *argv[])
 			}
 		}
 	}
-	printf("%d\n", leascents);
+	printf("%d\n", leastcents);
 	}
 	else
 	{
