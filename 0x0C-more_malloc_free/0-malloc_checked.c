@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
-* malloc_checked allocated memory using malloc and exit if failed
+* *malloc_checked allocated memory using malloc and exit if failed
 * @b: int
 * Return: pointer to the array initialized or NULL
 */
